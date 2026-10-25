@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/GyvDYh2/Git-Hub.jpg" alt="Web Designer, Web Developer & WordPress Developer" border="0"
+<img src="https://i.ibb.co.com/GyvDYh2/Git-Hub.jpg" alt="Web Designer, Web Developer & WordPress Developer" border="0">
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjobayer51&label=Profile%20views&color=0e75b6&style=flat" alt="devjobayer51" /> </p>
