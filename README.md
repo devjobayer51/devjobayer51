@@ -1,4 +1,7 @@
-<a style="text-align: center;" href="https://ibb.co.com/0Rqq9Wrp"><img src="https://i.ibb.co.com/S4NNm1BD/web-designer-web-developer-wordpress-developer.jpg" alt="web-designer-web-developer-wordpress-developer" border="0"></a>
+<p align="center">
+  <img src="https://i.ibb.co.com/S4NNm1BD/web-designer-web-developer-wordpress-developer.jpg" alt="web-designer-web-developer-wordpress-developer" border="0">
+</p>
+
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjobayer51&label=Profile%20views&color=0e75b6&style=flat" alt="devjobayer51" /> </p>
